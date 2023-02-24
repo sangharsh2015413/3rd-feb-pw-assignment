@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url(./assets/pexels-maxyne-barcel-10402282\ 1.png);
+    background-repeat: no-repeat;
+}
+
+.container{
+    max-width: 1180px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    background: transparent;
+}
+
+.company-logo{
+    margin-left: 80px;
+}
+
+.container ul li{
+    list-style: none;
+    background: transparent;
+}
+
+ul{
+    display: flex;
+    background: transparent;
+    gap: 40px;
+    margin-top: 25px;
+    color: #eaea66;
+}
+
+button{
+    width:130px;
+    background-color:orangered;
+    background-image: none;
+    font-size: 18px;
+    color: white;
+    height: 30px;
+    margin-top: 20px;
+}
+
+main h1 div{
+    text-align: center;
+    color: #eaea66;
+    font-size: 75px;
+}
+ .button-final{
+    /* padding: 18px; */
+    font-size: 18px;
+    width:250px;
+    color: white;
+    height: 50px;
+    margin-left: 42%;
+    margin-top: 50px;
+}
+main{
+    padding-top: 125px;
+}
+
+.footer-logo{
+    float: right;
+}
